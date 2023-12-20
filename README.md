@@ -7,7 +7,7 @@ R 언어를 활용한 대구 교통사고 데이터 분석
 - 개발 환경 : google colab
 
 ## 사용 모델
-1. Rogistic Regression
-2. Decision Tree
-3. Random Forest
-4. SVM
+- Rogistic Regression
+- Decision Tree
+- Random Forest
+- SVM
